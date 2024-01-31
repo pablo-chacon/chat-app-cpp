@@ -112,8 +112,9 @@ namespace ChatApp {
     public:
         /**
         * Constructs ChatIO object.
-        * @param file
-        ChatAppIO(const std::string& file) : filename(file) {}
+        * @param file*/
+
+        explicit ChatAppIO(const std::string& file) : filename(file) {}
 
         /**
         * Saves history.
@@ -168,6 +169,8 @@ namespace ChatApp {
         void deleteChatHistory() {
             remove(filename.c_str());
         }
+
+
     };
 }
 
