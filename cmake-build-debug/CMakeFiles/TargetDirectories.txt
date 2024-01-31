@@ -1,0 +1,3 @@
+/home/pablo/CLionProjects/chat_app_final/cmake-build-debug/CMakeFiles/chat_app_final.dir
+/home/pablo/CLionProjects/chat_app_final/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pablo/CLionProjects/chat_app_final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
